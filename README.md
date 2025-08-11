@@ -1,0 +1,1 @@
+# amarkobita4u-static
