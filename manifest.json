@@ -1,0 +1,46 @@
+{
+  "name": "Amarkobita4u - Bengali Song Lyrics",
+  "short_name": "Amarkobita4u",
+  "description": "Complete Bengali song lyrics with translations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0000",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "https://static.amarkobita4u.com/app-icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://static.amarkobita4u.com/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://static.amarkobita4u.com/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search Songs",
+      "short_name": "Search",
+      "description": "Search for Bengali songs",
+      "url": "/search"
+    },
+    {
+      "name": "Trending Songs",
+      "short_name": "Trending",
+      "description": "View trending songs",
+      "url": "/p/trending"
+    }
+  ]
+}
